@@ -1,2 +1,3 @@
 this file is created in gitbranch1 from local folder
 now added line from remote git folder
+now this sample2 file merged from gitbranch1
