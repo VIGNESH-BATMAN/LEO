@@ -1,2 +1,4 @@
 this is a sample file to learn branches
 now this line is entered in the remote git location
+
+MAIN BRANCH
